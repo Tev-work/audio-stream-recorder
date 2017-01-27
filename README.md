@@ -6,3 +6,5 @@ It's purpose is easy composition of streams originating from webrtc calls, thus 
 As current browsers' implementation doesn't support recording multiple streams with the MediaRecorder API, we can compose only audio streams, using the Web Audio API.
 
 Therefore **only audio recording is supported.**
+
+Status: **IN BUILD**
